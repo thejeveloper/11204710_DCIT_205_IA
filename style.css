@@ -1,8 +1,26 @@
 a, a:visited {
-    color:#243a60;
+    color:#4d4832;
 }
 
 #about {
-    background-color: rgb(124, 124, 136);
+    background-color: white(105, 99, 99);
     
 }
+
+#homepage {
+
+    text-decoration: white;
+}
+
+footer {
+    background-color: rgb(47, 47, 109);
+}
+
+footer a {
+    text-decoration: white;
+    color: rgb(89, 169, 169);
+}
+
+
+
+    
